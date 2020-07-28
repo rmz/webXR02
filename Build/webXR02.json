@@ -1,0 +1,16 @@
+{
+"companyName": "ambriente",
+"productName": "The Golden Age of FinTech",
+"productVersion": "0.1",
+"dataUrl": "webXR02.data.unityweb",
+"wasmCodeUrl": "webXR02.wasm.code.unityweb",
+"wasmFrameworkUrl": "webXR02.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
